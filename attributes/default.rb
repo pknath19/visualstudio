@@ -61,13 +61,13 @@ default['visualstudio']['ultimate']['checksum'] =
 # Currently you cannot change this, doing so will break the cookbook
 default['visualstudio']['install_dir'] = 'C:\\Program Files\\Microsoft Visual Studio 11.0'
 
-# VS 2012 Update 3
-default['visualstudio']['update']['filename'] = 'VS2012.3.iso'
-default['visualstudio']['update']['installer_file'] = 'VS2012.3.exe'
-default['visualstudio']['update']['package_name'] = 'Visual Studio 2012 Update 3 (KB2707250)'
-# SHA-1 89D4AC51AB2444134D61B668AAA8C4A655B84510
+# VS 2012 Update 4
+default['visualstudio']['update']['filename'] = 'mu_visual_studio_2012_update_4_x86_dvd_3161759'
+default['visualstudio']['update']['installer_file'] = 'mu_visual_studio_2012_update_4_x86_dvd_3161759'
+default['visualstudio']['update']['package_name'] = 'Visual Studio 2012 Update 4 (KB2707250)'
+# SHA-1 f8de1bac452f954d939408fe7b674c68
 default['visualstudio']['update']['checksum'] =
-  'd7d04e9533d34fa097c3b220f209411c94478b283646955a1cc85616f89f50b2'
+  'c462118eabcc242a50f1215587cb1c79505159af79fc50c24d8be1d25203cd87'
 default['visualstudio']['update']['registrykey'] =
   'HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Updates\Microsoft Visual Studio 2012'+
-  '\Visual Studio 2012 Update 3 (KB2707250)'
+  '\Visual Studio 2012 Update 4 (KB2707250)'
