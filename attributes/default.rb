@@ -56,7 +56,7 @@ default['visualstudio']['ultimate']['filename'] =
   'en_visual_studio_ultimate_2012_x86_dvd_2262106.iso'
 default['visualstudio']['ultimate']['package_name'] = 'Microsoft Visual Studio Ultimate 2012'
 default['visualstudio']['ultimate']['checksum'] =
-  '2FA6263AC45876154E1A197BCD76F7144905F6D7'
+  '9C45D6DE514A16F621431ED206124125246B0BCDF96A6F1A4B556462D5283AE7'
 
 # Currently you cannot change this, doing so will break the cookbook
 default['visualstudio']['install_dir'] = 'C:\\Program Files\\Microsoft Visual Studio 11.0'
@@ -67,7 +67,7 @@ default['visualstudio']['update']['installer_file'] = 'VS2012.4.exe'
 default['visualstudio']['update']['package_name'] = 'VS2012.4.exe'
 # SHA-1 f8de1bac452f954d939408fe7b674c68
 default['visualstudio']['update']['checksum'] =
-  'bb76be0c996b8e0687ca68c60353bbe10bb4552f'
+  '8C95BD32FE9A4FBD733704BDFB6B6FDAF63F896686156251BEFEF14DC26FE2A0'
 default['visualstudio']['update']['registrykey'] =
   'HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Updates\Microsoft Visual Studio 2012'+
   '\Visual Studio 2012 Update 4 (KB2707250)'
