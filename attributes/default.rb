@@ -62,12 +62,12 @@ default['visualstudio']['ultimate']['checksum'] =
 default['visualstudio']['install_dir'] = 'C:\\Program Files\\Microsoft Visual Studio 11.0'
 
 # VS 2012 Update 4
-default['visualstudio']['update']['filename'] = 'VS2012.4.exe'
+default['visualstudio']['update']['filename'] = 'mu_visual_studio_2012_update_4_x86_dvd_3161759.iso'
 default['visualstudio']['update']['installer_file'] = 'VS2012.4.exe'
-default['visualstudio']['update']['package_name'] = 'VS2012.4.exe'
+default['visualstudio']['update']['package_name'] = 'Visual Studio 2012 Update 4 (KB2707250)'
 # SHA-1 f8de1bac452f954d939408fe7b674c68
 default['visualstudio']['update']['checksum'] =
-  '8C95BD32FE9A4FBD733704BDFB6B6FDAF63F896686156251BEFEF14DC26FE2A0'
+  'C462118EABCC242A50F1215587CB1C79505159AF79FC50C24D8BE1D25203CD87'
 default['visualstudio']['update']['registrykey'] =
   'HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Updates\Microsoft Visual Studio 2012'+
   '\Visual Studio 2012 Update 4 (KB2707250)'
